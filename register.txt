@@ -1,1 +1,3 @@
 add register
+
+fix bug
